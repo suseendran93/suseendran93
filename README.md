@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native and Flask**
 
-- 💬 Ask me about **react, DSA, bootstrap, CSS3, HTML5, javascript**
+- 💬 Ask me about **ReactJs, DSA, bootstrap, CSS3, HTML5, Javascript, Machine Learning**
 
 - 📫 How to reach me **suzeendran@gmail.com**
 
