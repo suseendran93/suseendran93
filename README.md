@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suseendran</h1>
-<h3 align="center">A passionate frontend developer with good knowledge of Data analytics</h3>
+<h3 align="center">A passionate Fullstack developer with good knowledge of Data analytics</h3>
 
 <p align="left"> <a href="https://twitter.com/ssndrn" target="blank"><img src="https://img.shields.io/twitter/follow/ssndrn?logo=twitter&style=for-the-badge" alt="ssndrn" /></a> </p>
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **React Native and Flask**
+- 🌱 I’m currently learning **React, typescript and building an application from scratch**
 
 - 💬 Ask me about **react, DSA, bootstrap, CSS3, HTML5, javascript**
 
