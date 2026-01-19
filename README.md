@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, typescript and building an application from scratch**
 
-- 💬 Ask me about **react, DSA, bootstrap, CSS3, HTML5, javascript**
+- 💬 Ask me about **Web development, backend services**
 
 - 📫 How to reach me **suzeendran@gmail.com**
 
