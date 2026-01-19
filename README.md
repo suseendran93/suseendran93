@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://suseendran93.github.io/portfolio/](https://suseendran93.github.io/portfolio/)
 
-- ⚡ Fun fact **One life, learn everything.**
+- ⚡ **One life, learn everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
